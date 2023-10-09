@@ -1,8 +1,8 @@
 ### # Hello Fellow < Developers/ >! [![wave](https://camo.githubusercontent.com/0092ad4434a6214e925eeddd36d7eb880ef2dae0be925304df2b743f30544a2c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383137373032302f383830392f776176655f68656c6c6f2e6769663f31353838313737303230)](https://camo.githubusercontent.com/0092ad4434a6214e925eeddd36d7eb880ef2dae0be925304df2b743f30544a2c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383137373032302f383830392f776176655f68656c6c6f2e6769663f31353838313737303230)
 
-I'm Marcelo Alejandro Quispe, a Second Year Student currently pursuing my Bachelor's in Computer Science. I like learning, developing and music!
+I am Marcelo Alejandro Quispe, a Second Year student currently studying the University Technician in Programming. I like learning, developing and music!
 
-- I am interested in Web development and am currently working on my Javascript skills. 
+- I am interested in web and software development and am currently working on my Javascript and Java skills.
 - Pronouns : He/Hem 😄
 - I am looking to collaborate on projects
 - When I am not coding, you would find me reading 📖 or lettering some quotes ✍.
