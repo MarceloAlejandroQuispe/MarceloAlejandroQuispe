@@ -99,16 +99,15 @@ alt="tkinter" width="50" height="50" /> </a>
 ##  **GitHub Stats**
 
 <a href="https://github.com/MarceloAlejandroQuispe">
-<p><img src="https://img.shields.io/github/stars/MarceloAlejandroQuispe?style=social"/>&emsp;<img src="https://img.shields.io/github/followers/MarceloAlejandroQuispe?style=social"/></p>
+<p><img src="https://img.shields.io/github/stars/MarceloAlejandroQuispe?style=dark&hid"/>&emsp;<img src="https://img.shields.io/github/followers/MarceloAlejandroQuispe?style=dark&hid"/></p>
 
 <div align="center">
 
 <a href="https://github.com/MarceloAlejandroQuispe">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAlejandroQuispe&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/MarceloAlejandroQuispe">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarceloAlejandroQuispe&show_icons=true&theme=dark&line_height=27" alt="SavageCarol github stats"/>
-</a>
+
+<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=MarceloAlejandroQuispe&theme=dark&hid">
 
 </div> <br>
 
