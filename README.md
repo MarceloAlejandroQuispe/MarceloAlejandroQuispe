@@ -3,7 +3,7 @@
 I am Marcelo Alejandro Quispe, a Second Year student currently studying the University Technician in Programming. I like learning, developing and music!
 
 - I am interested in web and software development and am currently working on my Javascript and Java skills.
-- Pronouns : He/Hem 😄
+- Pronouns : He/Him 😄
 - I am looking to collaborate on projects
 - When I am not coding, you would find me reading 📖 or lettering some quotes ✍.
 
