@@ -107,7 +107,7 @@ alt="tkinter" width="50" height="50" /> </a>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAlejandroQuispe&theme=dark&hide_langs_below=1" />
 </a>
 
-<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=MarceloAlejandroQuispe&theme=dark&hid">
+
 
 </div> <br>
 
